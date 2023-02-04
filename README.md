@@ -47,6 +47,7 @@ Start the server
   npm run start
 ```
 
+If you haven't tried bun and are on a linux/MacOS platform. This works very well with Bun.  
 
 ## Usage/Examples
 
